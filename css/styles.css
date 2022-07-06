@@ -144,6 +144,10 @@ a{
     padding-right: 25px;
 }
 
+.footer-link:hover{
+    color: white;
+}
+
 .copyright{
     color: #EAF6F6;
     margin: 0;
